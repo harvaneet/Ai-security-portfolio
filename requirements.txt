@@ -1,0 +1,8 @@
+# Week 1 needs nothing beyond Python itself.
+# Later weeks add these; install them when you reach them:
+# pandas
+# numpy
+# matplotlib
+# scikit-learn
+# jupyter
+# adversarial-robustness-toolbox
